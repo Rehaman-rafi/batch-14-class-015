@@ -1,0 +1,199 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.container-1{
+    height:600px;
+   background-image: url(image/ufea.jpg);
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   text-align: center;
+   color: aliceblue;
+   font-size: larger;
+   
+}
+
+.container-2{
+    height:400px;
+    margin-top: 3px;
+  
+}
+
+.heading{
+    color:chocolate;
+    font-family: sans-serif;
+
+}
+
+.design-1{
+    background-image: url(image/real.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 33%;
+   float: left;
+   margin: 1px;
+   font-size:larger;
+   color: black;
+  text-align: center;
+  font-family: sans-serif;
+   font-weight:bolder;
+
+}
+
+.design-2{
+    background-image: url(image/bayern.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 33%;
+    float: left;
+    margin: 1px;
+    font-size:larger;
+   color: orangered;
+  text-align: center;
+  font-family: sans-serif;
+   font-weight:bolder;
+
+}
+
+.design-3{
+    background-image: url(image/mancity.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 33%;
+    float: left;
+    margin: 1px;
+    font-size:larger;
+   color:whitesmoke;
+  text-align: center;
+  font-family: sans-serif;
+   font-weight:bolder;
+
+}
+
+.design-4{
+    background-image: url(image/liverpool.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 33%;
+    float: left;
+    margin: 1px;
+    font-size:larger;
+   color: black;
+  text-align: center;
+  font-family: sans-serif;
+   font-weight:bolder;
+
+}
+
+.design-5{
+    background-image: url(image/barca-n.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 33%;
+    float: left;
+    margin: 1px;
+    font-size:larger;
+   color:whitesmoke;
+  text-align: center;
+  font-family: sans-serif;
+   font-weight:bolder;
+
+}
+
+.design-6{
+    background-image: url(image/chelsea-1\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 33%; 
+    float: left;
+    margin: 1px;
+    font-size:larger;
+   color:azure;
+  text-align: center;
+  font-family: sans-serif;
+   font-weight:bolder;
+
+}
+
+.para{
+    font-family: sans-serif;
+    
+}
+
+.footer{
+    background-color:black ;
+    height:250px;
+    margin-top: 5px;
+    background-image: url(image/foot.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+
+.footer-item{
+    
+  
+padding-left: 200px;
+   
+   color: aliceblue;
+   text-align: center;
+   padding-top: 0px;
+   
+  
+}
+
+a{
+    display: block;
+    
+   text-decoration: none;
+}
+
+.bold{
+   
+    font-size:50px;
+    padding-right: 300px;
+}
+
+
+/* Reponsive */
+@media screen and (max-width:597px){
+.design-1{
+    height: 200px;
+    width: 32.2%; 
+}
+.design-2{
+    height: 200px;
+    width: 32.2%; 
+}
+.design-3{
+    height: 200px;
+    width: 32.2%; 
+}
+.design-4{
+    height: 200px;
+    width: 32.2%; 
+}
+.design-5{
+    height: 200px;
+    width: 32.2%; 
+}
+.design-6{
+    height: 200px;
+    width: 32.2%; 
+}
+}
